@@ -1,0 +1,2 @@
+module load compiler/gcc/7.1.0/compilervars
+module load compiler/cuda/10.0/compilervars
